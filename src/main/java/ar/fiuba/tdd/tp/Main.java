@@ -2,6 +2,6 @@ package ar.fiuba.tdd.tp;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Cambiando texto nada mas");
+        System.out.println("change text nada mas");
     }
 }
